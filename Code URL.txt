@@ -1,0 +1,1 @@
+https://github.com/sahilunagar/CIFAR-10-image-classification-using-CNN-model-in-keras/blob/master/model.py
