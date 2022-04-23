@@ -1,0 +1,16 @@
+@inproceedings{ccalik2018cifar,
+  title={Cifar-10 image classification with convolutional neural networks for embedded systems},
+  author={{\c{C}}alik, Rasim Caner and Demirci, M Fatih},
+  booktitle={2018 IEEE/ACS 15th International Conference on Computer Systems and Applications (AICCSA)},
+  pages={1--2},
+  year={2018},
+  organization={IEEE}
+}
+
+@article{krizhevsky2012imagenet,
+  title={Imagenet classification with deep convolutional neural networks},
+  author={Krizhevsky, Alex and Sutskever, Ilya and Hinton, Geoffrey E},
+  journal={Advances in neural information processing systems},
+  volume={25},
+  year={2012}
+}
